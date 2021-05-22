@@ -8,5 +8,5 @@ services:
       replicas: 2
     image: rkhyd79/simplilearn-phpinfo:latest
     ports:
-      -80:8080
+      - 80:8080
 version: '3.8'
