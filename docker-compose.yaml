@@ -13,4 +13,4 @@ services:
       - phpinfo:/data
 version: '3.8'
 volumes:
-  phpinfo
+  - phpinfo
