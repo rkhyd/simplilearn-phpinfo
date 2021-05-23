@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       # Run the nginx image
-      - name: nginx
+      - name: phpinfo-container
         image: rkhyd79/simplilearn-phpinfo:latest
         command: 
           - "php"
