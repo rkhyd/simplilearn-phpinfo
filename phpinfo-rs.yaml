@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       labels:
-        app: simplielarn-phpinfo
+        app: simplilearn-phpinfo
     spec:
       containers:
       # Run the nginx image
